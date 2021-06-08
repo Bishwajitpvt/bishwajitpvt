@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bishwajit Samanta</h1>
 <h3 align="center">I'm a Developer👨🏼‍💻, Graphic Designer🎨 and Gamer🎮</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishwajitpvt&label=Profile%20views&color=0e75b6&style=flat" alt="bishwajitpvt" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishwajitpvt" alt="bishwajitpvt" /></a> </p>
-
 - 🔭 I'm a passionate to **Android and Web Development.**
 
 - 🌱 I’m currently learning **every Language.**
@@ -34,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishwajitpvt&show_icons=true&locale=en" alt="bishwajitpvt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishwajitpvt&" alt="bishwajitpvt" /></p>
-

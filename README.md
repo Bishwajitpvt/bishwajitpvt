@@ -3,8 +3,6 @@
 
 - 🔭 I'm a passionate to **Android and Web Development.**
 
-- 🌱 I’m currently learning **every Language.**
-
 - 🤝 I’m currently working on **Android and Web !!**
 
 - 👯 I’m looking to collaborate with **every Developer.**

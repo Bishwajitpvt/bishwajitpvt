@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I'm a hardcore Gamer.**
 
+- ^ "I'm a virgin."
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bishwajitshakti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bishwajitshakti" height="30" width="40" /></a>

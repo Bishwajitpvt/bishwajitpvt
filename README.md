@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bishwajitsamanta110@gmail.com**
 
-- ⚡ Fun fact **I'm a hardcore Gamer.**
+- ⚡ Fun fact **I love playing pc games and sketching**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

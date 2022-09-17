@@ -1,6 +1,5 @@
 ![banner](https://user-images.githubusercontent.com/77453811/186984005-faf33c9f-18b4-4e3a-9474-10dc88fe9345.png)
 
-
 <h1 align="center">Hello, folks!! 👋</h1>
 <h3 align="center">My name is Bishwajit Samanta and I'm a software developer. I'm from India, currently living in Mumbai.</h3>
 

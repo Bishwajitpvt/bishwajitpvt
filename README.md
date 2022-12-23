@@ -64,10 +64,11 @@
 
 <!--  stats -->
 <h3 align="left">Stats:</h3>
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishwajitpvt&show_icons=true&locale=en&layout=compact" alt="bishwajitpvt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishwajitpvt&show_icons=true&locale=en" alt="bishwajitpvt" /></p>
-
+-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishwajitpvt&" alt="bishwajitpvt" /></p>
 
 

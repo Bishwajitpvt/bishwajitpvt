@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/77453811/186984005-faf33c9f-18b4-4e3a-9474-10dc88fe9345.png)
 
 <h1 align="center">Hello, folks!! 👋</h1>
-<h3 align="center">My name is Bishwajit Samanta and I'm a software developer. I'm from India, currently living in Mumbai.</h3>
+<h3 align="centre">My name is Bishwajit Samanta and I'm a software developer. I'm from India, currently living in Mumbai.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bishwajitpvt&label=Profile%20views&color=0e75b6&style=flat" alt="bishwajitpvt" /> </p>
 
